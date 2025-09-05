@@ -1,5 +1,5 @@
 export default {
-  base: "./"
+  base: "./",
   server: {
     host: '0.0.0.0',
   },
